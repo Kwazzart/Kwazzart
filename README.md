@@ -5,7 +5,7 @@ https://www.kaggle.com/vladimirbeliayev
 Hello, I am an analytics student from Moscow. I am interested in data-science, data/product/marketing-analysis. Here is some information about me
 
 ## Education
-Higher School of Economics (HSE, Moscow), department of business, marketing and market analytics, specialization - data mining.
+Higher School of Economics (HSE, Moscow), department of business, marketing and market analytics, specialization - Intelligent Data Analysis.
 I take the 1st place out of 146 students in my department.
 
 Additional courses

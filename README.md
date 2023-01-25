@@ -17,8 +17,8 @@ Additional courses
 - Fundamental: mathematical statistics, algorithms and data structures, calculus, linear algebra
 - Programming: Python (pandas, numpy, sklearn, matplotlib, scipy, pytorch)
 - Statistics: A/B testing, hypothesis testing, metrics, dashboard creation
-- Machine learning: time-series prediction using gradient binning, building recommendation systems (Content Based/Collaborative Filtering/Matrix Factorication/Matrix Factorization Machines)
+- Machine learning: time-series prediction using gradient boostings, building recommendation systems (Content Based/Collaborative Filtering/Matrix Factorication/Matrix Factorization Machines)
 
 ## Projects and achievements:
-- Kaggle's Housing Prices competition, top 5% solutions. Solving a regression problem using 79 predictors.
-- Winning the case championship, best solution for developing a transportation company's strategy
+- Kaggle's Housing Prices competition, top 5% solutions. Solving a regression problem using 79 predictors (ensambles, catboost, lightgbm).
+- Winning the case championship, best solution for developing a transportation company's strategy (time-series market forecasting)

@@ -5,9 +5,11 @@ https://www.kaggle.com/vladimirbeliayev
 Hello, I am an analytics student from Moscow. I am interested in data-science, data/product/marketing-analysis, product-management and lean-startups. Here is some information about me
 
 ## Projects and achievements:
-- Kaggle's Housing Prices competition, top 5% solutions. Solving a regression problem using 79 predictors (ensambles, catboost, lightgbm). In this competition, I implemented the entire pipeline (data cleaning, EDA, feature generation, feature selection, modeling, building ensamble)
+- Business optimization of a Russian distribution product company, construction of a metrics tree, introduction of analytical tools for order ranking in business operations. Efficiency of working capital increased by 31% 
 
 - Winning the case championship, best solution for developing a transportation company's strategy (time-series market forecasting). In this case study, I played the role of key analyst, developed key strategies, predicted demand for transportation company services and developed a financial model of alternatives
+
+- Kaggle's competitions spaceship and housing prices with a nice working with data
 
 ## Education
 Higher School of Economics (HSE, Moscow), department of business, marketing and market analytics, specialization - Intelligent Data Analysis.
